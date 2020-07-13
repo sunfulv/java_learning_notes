@@ -14,7 +14,7 @@ class FC{ //父类
     }
 
     {
-        System.out.println("写在类定义最前的代码块");
+        System.out.println("写在父类定义最前的代码块");
     }
     private static int count = 1;
     private int f_id = -1;
